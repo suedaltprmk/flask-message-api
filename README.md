@@ -1,2 +1,2 @@
 # flask-message-api
-messaging api written in python flask
+A messaging system I have written with pooling method using Python flask.
